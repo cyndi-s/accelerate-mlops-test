@@ -1,0 +1,7 @@
+# Required by nlp_example.py (external dependencies only)
+
+torch
+accelerate
+datasets
+transformers
+evaluate
